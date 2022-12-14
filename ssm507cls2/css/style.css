@@ -1,0 +1,64 @@
+*{
+padding:0px;
+margin:0px;
+}
+body{
+font-family:sans-serif;
+	font-size:14px;
+	line-height:24px;
+}
+h1,h2,h3,h4,h5,h6{
+	font-family:serif;
+}
+a{
+	text-decoration:none;
+}
+a:hover{
+	text-decoration:none;
+	
+}
+.container{
+	width: 1140px;
+	margin: 0px auto:;
+}
+.login from{
+	width: 600px;
+	margin: 0px auto;
+	background:#eee;
+	padding: 40px;
+}
+.avater{
+	width: 100%;
+	text-align: center;
+}
+.avater img{
+	width: 180px;
+	height: 180px;
+	border-radius: 100%;
+}
+.avater h1{
+	font-size: 36px;
+	line-height: 46px;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	font-weight: 500;
+	margin: 20px 0px;
+
+}
+.from group{
+	width: 100%;
+	margin: 0px 0px 20px;
+}
+
+.from group label{
+	display: blocr;
+	font-size: 14px;
+	line-height: 24px;
+	text-transform: uppercase;
+	font-weight: 700;
+	margin: 0px 0px 5px;
+}
+.from-group.from-control{
+	width: 100%;
+	padding: 15px;
+}
